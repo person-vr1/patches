@@ -1,4 +1,6 @@
 # Making and adding patches
+Note that this only really relates to stuff special to our launcher client. We will not explain how to make a private server or implement serversided logic for Gorilla Tag's servers here.
+
 The patches we use are xdelta3 patches with no secondary compression. This boils down to using ``xdelta3 -S -e -s [original assembly] [modified assembly] [output patch]``
 
 Note that you HAVE to make the patches without secondary compression. The xdelta3 library we use in our launcher doesn't support it.
