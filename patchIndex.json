@@ -6,7 +6,8 @@
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/candrop.xdelta",
       "GameLink":null,
       "ManifestId":5272615492296865291,
-      "IsSteam":true
+      "IsSteam":true,
+      "IsBeta":false
    },   
    {
       "PatchName":"Neon Colors",
@@ -15,6 +16,7 @@
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/neon.xdelta",
       "GameLink":null,
       "ManifestId":1831142320395008381,
-      "IsSteam":true
+      "IsSteam":true,
+      "IsBeta":false
    }
 ]
