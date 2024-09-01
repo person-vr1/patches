@@ -38,5 +38,15 @@
       "ManifestId":4819580441710160978,
       "IsSteam":true,
       "IsBeta":false
+   },
+   {
+      "PatchName":"Monke Blocks",
+      "PatchShorthand":"MonkeBlox",
+      "PatchDescription":"The first iteration of the building thing Another Axiom made. It's okay, but buggy.",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/monkeblox.xdelta",
+      "GameLink":null,
+      "ManifestId":7850954751661121894,
+      "IsSteam":true,
+      "IsBeta":false
    }
 ]
