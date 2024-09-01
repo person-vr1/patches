@@ -28,5 +28,15 @@
       "ManifestId":9066807640258182301,
       "IsSteam":true,
       "IsBeta":true
+   },
+   {
+      "PatchName":"Halloween 2022",
+      "PatchShorthand":"Hallo22",
+      "PatchDescription":"One of the very few updates fun updates that post-expansion Another Axiom made. Everyone knows it!",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/hallo22.xdelta",
+      "GameLink":null,
+      "ManifestId":4819580441710160978,
+      "IsSteam":true,
+      "IsBeta":false
    }
 ]
