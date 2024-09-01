@@ -48,5 +48,15 @@
       "ManifestId":7850954751661121894,
       "IsSteam":true,
       "IsBeta":false
+   },
+   {
+      "PatchName":"Steam Release",
+      "PatchShorthand":"Release",
+      "PatchDescription":"The very first version released to the Steam store. Not much to say here but it has a funny lookin' monitor and the weird stump thingies",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/release.xdelta",
+      "GameLink":null,
+      "ManifestId":2218992975128065135,
+      "IsSteam":true,
+      "IsBeta":false
    }
 ]
