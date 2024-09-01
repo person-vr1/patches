@@ -1,3 +1,7 @@
+# Patches
+Patch files for our launcher. They are xdelta files, containing only the differences between the original assembly and the modified ones.
+These don't contain code owned by Another Axiom and your own copy of the matching game assembly needs to be provided to use them.
+
 # Making and adding patches
 Note that this only really relates to stuff special to our launcher client. We will not explain how to make a private server or implement serversided logic for Gorilla Tag's servers here.
 
