@@ -13,3 +13,4 @@ Then you have to modify the JSON file at the repository root - the launcher clie
 
 Just look at the existing JSON content, it should be pretty easy to figure out what to do here.
 GameLink currently isn't used by anything and all builds should have IsSteam be true.
+If IsSteam is set to false, the launcher client will throw an error code and not attempt to touch anything.
