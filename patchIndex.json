@@ -40,16 +40,6 @@
       "IsBeta":false
    },
    {
-      "PatchName":"Monke Blocks",
-      "PatchShorthand":"MonkeBlox",
-      "PatchDescription":"The first iteration of the building thing Another Axiom made. It's okay, but buggy.",
-      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/monkeblox.xdelta",
-      "GameLink":null,
-      "ManifestId":7850954751661121894,
-      "IsSteam":true,
-      "IsBeta":false
-   },
-   {
       "PatchName":"Steam Release",
       "PatchShorthand":"Release",
       "PatchDescription":"The very first version released to the Steam store. Not much to say here but it has a funny lookin' monitor and the weird stump thingies",
