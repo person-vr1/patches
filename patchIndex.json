@@ -48,5 +48,15 @@
       "ManifestId":2218992975128065135,
       "IsSteam":true,
       "IsBeta":false
+   },
+   {
+      "PatchName":"Clouds Update",
+      "PatchShorthand":"Clouds",
+      "PatchDescription":"This update brought the clouds map along the launch sale.",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/clouds-update.xdelta",
+      "GameLink":null,
+      "ManifestId":7846756673248360873,
+      "IsSteam":true,
+      "IsBeta":false
    }
 ]
